@@ -4,7 +4,6 @@ public class StatusRequest {
     private String token;
     private String status;
 
-    // Геттеры и сеттеры
     public String getToken() {
         return token;
     }
