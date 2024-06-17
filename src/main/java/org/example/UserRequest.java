@@ -15,7 +15,6 @@ public class UserRequest {
     @JsonProperty("role")
     private String role;
 
-    // Getters and setters
     public String getLastName() {
         return lastName;
     }
